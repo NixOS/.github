@@ -20,6 +20,7 @@ Examples of unacceptable behavior by participants include:
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
+* Wasting other people’s time with low quality contributions, including but not limited to LLM and bot spam
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Our Responsibilities
