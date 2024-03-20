@@ -35,7 +35,7 @@ This Code of Conduct applies within all project spaces, and it also applies when
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the moderation team at [community@nixos.org](mailto:community@nixos.org) or in the [#moderation:nixos.org Matrix channel](https://matrix.to/#/#moderation:nixos.org). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The moderation team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the moderation team at [moderation@nixos.org](mailto:moderation@nixos.org) or in the [#moderation:nixos.org Matrix channel](https://matrix.to/#/#moderation:nixos.org). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The moderation team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Moderation team members who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the team.
 
