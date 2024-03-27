@@ -23,6 +23,8 @@ Examples of unacceptable behavior by participants include:
 * Wasting other people’s time with low quality contributions, including but not limited to LLM and bot spam
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
+Unacceptable behavior expressed through non-textual media, such as images, links, or emoji, is still unacceptable.
+
 ## Our Responsibilities
 
 The moderation team is responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
@@ -31,7 +33,7 @@ The moderation team has the right and responsibility to remove, edit, or reject 
 
 ## Scope
 
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+This Code of Conduct applies within all project spaces, and broadly covers all forms of communication and expression in those spaces, including usernames, user profiles, public and private posts and comments, images, contributions of code, and direct messages. It also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
 
 ## Enforcement
 
