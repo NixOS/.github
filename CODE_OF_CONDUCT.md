@@ -13,11 +13,14 @@ Examples of behavior that contributes to creating a positive environment include
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
+* Being considerate of other people's time and energy, and not taking up too much space
+* Respecting personal boundaries of other people, including blocks
 
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
+* Disrupting discussions and disingenuous discussion practices, including derailing, concern trolling, sea lioning and other bad faith arguments
 * Public or private harassment
 * Publishing others’ private information, such as a physical or electronic address, without explicit permission
 * Wasting other people’s time with low quality contributions, including but not limited to LLM and bot spam
