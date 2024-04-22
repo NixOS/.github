@@ -14,7 +14,7 @@ Examples of behavior that contributes to creating a positive environment include
 * Focusing on what is best for the community
 * Showing empathy towards other community members
 * Being considerate of other people's time and energy, and not taking up too much space
-* Respecting personal boundaries of other people, including blocks
+* Respecting personal boundaries of other people (e.g. when being blocked)
 
 Examples of unacceptable behavior by participants include:
 
