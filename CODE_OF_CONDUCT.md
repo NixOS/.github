@@ -34,7 +34,9 @@ The moderation team has the right and responsibility to remove, edit, or reject 
 
 ## Scope
 
-This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Examples of representing a project or community include using an official project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a project may be further defined and clarified by project maintainers.
+This Code of Conduct applies within all project spaces, and it also applies when an individual is representing the project or its community in public spaces. Representation of the project can happen in a lot of ways and is not a binary status: For example, contacting an upstream on behalf of the project means representing that project to a certain degree.
+
+Moreover, we expect community members to maintain a minimum standard of human decency at all times. Open harassment, discrimination or other hateful behavior involving community members is always inacceptable.
 
 ## Enforcement
 
