@@ -1,8 +1,18 @@
 # Contributor Covenant Code of Conduct
 
-## Our Pledge
+## Our Aim
 
-In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+In the interest to foster a diverse and welcoming community, we, the moderation team, have adopted this code of conduct as a policy for our actions.
+By [RFC 102](https://github.com/NixOS/rfcs/blob/c65c8321782b40844167beb48818471f70900d9d/rfcs/0102-moderation-team.md),
+
+> the moderation team should utilize the [NixOS Foundation mission](https://nixos.org/community/index.html) and the following statement during their duties:
+>
+>> The NixOS Foundation aims to promote participation without regard to gender,
+sexual orientation, disability, ethnicity, age, or similar personal
+characteristics. We want to strive to create and foster community by providing
+an intentionally welcoming and safe environment where all feel valued and cared
+for, and where all are given opportunity to participate meaningfully. The
+Foundation will work with the community in service of this goal.
 
 ## Our Standards
 
